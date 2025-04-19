@@ -82,4 +82,4 @@ while running:
     clock.tick(60)
 
 # Quit pygame
-pygame.quit()
+pygame.quit(b)
